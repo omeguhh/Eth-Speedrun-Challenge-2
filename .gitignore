@@ -48,6 +48,7 @@ build
 #Hardhat files
 cache
 artifacts
+package.json
 
 # misc
 .DS_Store
@@ -64,3 +65,8 @@ yarn-error.log*
 .netlify
 *.tsbuildinfo
 *.stackdump
+
+
+0xe094292c5eadc10c3c5b52bafd0c575459d1c47d.txt
+mnemonic.txt
+packages/hardhat/package.json
