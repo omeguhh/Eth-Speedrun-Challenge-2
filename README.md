@@ -1,3 +1,5 @@
+#Omeguhh Completed Challenge
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
